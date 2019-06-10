@@ -1,5 +1,5 @@
 module.exports = {
     database: {
-        URI: 'mongodb://localhost/RedSocial'
+        URI: 'mongodb://localhost:3001/RedSocial'
     }
 };
